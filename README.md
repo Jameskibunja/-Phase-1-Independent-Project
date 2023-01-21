@@ -1,7 +1,5 @@
 
-DIGITAL SCHOOL BELL APP
-
-JAMES KIBUNJA
+<h1>DIGITAL SCHOOL BELL<h1>
 
 Schools bells have always been an important part of our childhoods.With the emergence of new technology many things have been digitized, while the school bell still uses the old manual method. To solve this problem we can come up with a simple web program that ring when a specific time is set.
 
@@ -18,6 +16,10 @@ TECHNOLOGY USED
 LINK 
 
 <a href="https://jameskibunja.github.io/-Phase-1-Independent-Project/">VIEW MY SITE</a>
+  
+ AUTHOR
+  
+ JAMES KIBUNJA <a href="https://github.com/Jameskibunja">@JamesKibunja</a>
 
 LICENSE
 
