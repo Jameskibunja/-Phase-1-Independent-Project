@@ -15,6 +15,10 @@ TECHNOLOGY USED
 •	CSS
 •	JAVASCRIPT
 
+LINK 
+
+<a href="https://jameskibunja.github.io/-Phase-1-Independent-Project/">VIEW MY SITE</a>
+
 LICENSE
 
 MIT License
